@@ -29,6 +29,8 @@ The project implements the complete NLP workflow, from data cleaning and tokeniz
 ## Dataset
 
 **News Category Dataset v3**
+link:https://www.kaggle.com/datasets/rmisra/news-category-dataset
+
 
 The dataset contains news headlines and their corresponding categories. The notebook removes duplicate records and retains the `headline` and `category` columns for classification.
 
